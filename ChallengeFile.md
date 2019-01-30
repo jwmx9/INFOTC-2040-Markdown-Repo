@@ -6,7 +6,7 @@
 ***
 [I'm a link to the README file](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/README.md)
 ***
-Image that is in the directory is below:
+Image that is in the directory:
 ![Big_Chungus](https://github.com/jwmx9/INFOTC-2040-Markdown-Repo/blob/master/Big_Chungus.png "Big_Chungus")
 ***
 Web image:
