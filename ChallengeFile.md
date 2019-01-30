@@ -10,7 +10,7 @@ Image that is in the directory is below:
 ![Big_Chungus](https://github.com/jwmx9/INFOTC-2040-Markdown-Repo/blob/master/Big_Chungus.png "Big_Chungus")
 ***
 Web image:
-![Web image](https://jokideo.com/funny-baby-came/)
+![Web image](https://jokideo.com/wp-content/uploads/2013/08/Funny-baby-I-came-out-of-your-what.png)
 ***
 ```javascript
 var s = "Javascript";
