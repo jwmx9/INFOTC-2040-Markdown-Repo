@@ -7,10 +7,10 @@
 [I'm a link to the README file](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/README.md)
 ***
 Image that is in the directory is below:
-![trappy the trap dog](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/Trappy.jpg "Trappy the trap dog")
+![Big_Chungus](https://github.com/jwmx9/INFOTC-2040-Markdown-Repo/blob/master/Big_Chungus.png "Big_Chungus")
 ***
 Web image:
-![Web image](https://static.boredpanda.com/blog/wp-content/uploads/2016/11/cute-baby-seal-waves-photographer-alexey-trofimov-russia-fb.png)
+![Web image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiNmI6BpJTgAhXJ4IMKHVOWCH0QjRx6BAgBEAU&url=https%3A%2F%2Fjokideo.com%2Ffunny-baby-came%2F&psig=AOvVaw20EZ4x2qzR3KtK6XioGb6Y&ust=1548895622320586)
 ***
 ```javascript
 var s = "Javascript";
