@@ -33,16 +33,16 @@ alert(s);
 4. numbered
 5. list
 ***
-| Huge | Table | Guy |
-|------|:-----:|----:|
-| this | table | is  |
-| wild | woot  | woo |
+| Table | Table | Table |
+|-------|:-----:|------:|
+| Table | table | Table |
+| Table | Table | Table |
 ***
 **This is bolded text**
 ***
 *This is italicized text*
 ***
-~~whoopsie poopsie this is strikethrough text~~
+~~this is strikethrough text~~
 ***
 Below is a horizontal rule demonstration
 
